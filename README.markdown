@@ -2,21 +2,22 @@
 
 Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http://www.twitter.com/@mediafinger)
 
-*  9:10 [Chad Fowler - Disposable Components](https://github.com/mediafinger/IsRails#chad-fowler-chadfowler)
-*  9:40 [Yehuda Katz - Off the Menu: Building a Client-Side With Ember and Rails](https://github.com/mediafinger/IsRails#yehuda-katz-wycats)
-*  9:55 [Xavier Noria - Numerical Ruby](https://github.com/mediafinger/IsRails#xavier-noria-fxn)
-* 10:25 [Konstantin Haase - Sinatra in Six Lines or How to do Crazy Stuff in Ruby](https://github.com/mediafinger/IsRails#konstantin-haase-konstantinhaase)
-* 10:55 [Steve Klabnik - The Path to Rails 4.1](https://github.com/mediafinger/IsRails#steve-klabnik-steveklabnik)
-* 11:30 [Yehuda Katz - Off the Menu: Building a Client-Side With Ember and Rails](https://github.com/mediafinger/IsRails#yehuda-katz-wycats)
-* 12:30 [Case Taintor - Cooking an Omelette with Chef](https://github.com/mediafinger/IsRails#case-taintor-ctaintor)
-* 13:00 [Andre Arko - Deathmatch: Bundler vs. Rubygems.org](https://github.com/mediafinger/IsRails#andre-arko-indirect)
-* 13:30 [Yonatan Bergman - CREATE • LEARN • DEVELOP](https://github.com/mediafinger/IsRails#yonatan-bergman-yonbergman)
-* 14:40 [Emily Stolfo - CREATE • LEARN • DEVELOP](https://github.com/mediafinger/IsRails#emily-stolfo-emstolfo)
-* 15:10 [Vitaly Kushner - Cache me if you can](https://github.com/mediafinger/IsRails#vitaly-kushner-vkushner)
-* 15:40 [Benjamin Fleischer - YAML, what is it good for](https://github.com/mediafinger/IsRails#benjamin-fleischer-hazula)
+## The talks I listened to
+*  9:10 [Chad Fowler - Disposable Components](https://github.com/mediafinger/RailsIsrael#chad-fowler-chadfowler)
+*  9:40 [Yehuda Katz - Off the Menu: Building a Client-Side With Ember and Rails](https://github.com/mediafinger/RailsIsrael#yehuda-katz-wycats)
+*  9:55 [Xavier Noria - Numerical Ruby](https://github.com/mediafinger/RailsIsrael#xavier-noria-fxn)
+* 10:25 [Konstantin Haase - Sinatra in Six Lines or How to do Crazy Stuff in Ruby](https://github.com/mediafinger/RailsIsrael#konstantin-haase-konstantinhaase)
+* 10:55 [Steve Klabnik - The Path to Rails 4.1](https://github.com/mediafinger/RailsIsrael#steve-klabnik-steveklabnik)
+* 11:30 [Yehuda Katz - Off the Menu: Building a Client-Side With Ember and Rails](https://github.com/mediafinger/RailsIsrael#yehuda-katz-wycats)
+* 12:30 [Case Taintor - Cooking an Omelette with Chef](https://github.com/mediafinger/RailsIsrael#case-taintor-ctaintor)
+* 13:00 [Andre Arko - Deathmatch: Bundler vs. Rubygems.org](https://github.com/mediafinger/RailsIsrael#andre-arko-indirect)
+* 13:30 [Yonatan Bergman - CREATE • LEARN • DEVELOP](https://github.com/mediafinger/RailsIsrael#yonatan-bergman-yonbergman)
+* 14:40 [Emily Stolfo - CREATE • LEARN • DEVELOP](https://github.com/mediafinger/RailsIsrael#emily-stolfo-emstolfo)
+* 15:10 [Vitaly Kushner - Cache me if you can](https://github.com/mediafinger/RailsIsrael#vitaly-kushner-vkushner)
+* 15:40 [Benjamin Fleischer - YAML, what is it good for](https://github.com/mediafinger/RailsIsrael#benjamin-fleischer-hazula)
 
 <!--
-* 14:40 [XNAME - XTITLE](https://github.com/mediafinger/IsRails#XNAME-XTWITTER)
+* 14:40 [XNAME - XTITLE](https://github.com/mediafinger/RailsIsrael#XNAME-XTWITTER)
  -->
 ***
 
@@ -107,8 +108,8 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 ### Vitaly Kushner [@vkushner](http://www.twitter.com/vkushner)
 #### [Cache me if you can](http://railsisrael2013.events.co.il/presentations/986-cache-me-if-you-can)
 
+* First make sure your app is fast enough that nothing crashes without any caching
 * Caching with Rails 4
-* make sure your app is fast enough that nothing crashes without any caching
 
 ***
 
@@ -125,4 +126,4 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 ***
 -->
 
-Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) invited me to take part in the speakers events - the best by far was the surfing session at the beautiful beach of Tel Aviv. A web development conference with actual surfing. Wow :)
+Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) invited me to take part in the speakers events - apart from being able to meet some great people that are fun to talk to (and that do a lot of stuff for open source and therefore make life better for all of us), the best part was the surfing session at the beautiful beach of Tel Aviv. A web development conference with actual surfing. Wow :)
