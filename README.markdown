@@ -143,7 +143,7 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 #### Boris Dinkevich [@BorisDinkevich](http://www.twitter.com/BorisDinkevich)
 [Sharing the Environment with Vagrant]()
 
-#### Amr Tamimi [@ammt](http://www.twitter.com/ammt)
+#### Amr Tamimi [@amrnt](http://www.twitter.com/amrnt)
 [How do I Really Use Rails](http://railsisrael2013.events.co.il/presentations/1024-how-do-i-really-use-rails)
 
 #### David Paluy [@dpaluy](http://www.twitter.com/dpaluy)
