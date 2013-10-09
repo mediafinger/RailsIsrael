@@ -132,57 +132,44 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 ## Lightning talks
 
 ### Andre Arko [@indirect](http://www.twitter.com/indirect)
-#### [You don't know bundler](http://railsisrael2013.events.co.il/presentations/1039-you-dont-know-bundler)
-
-***
+[You don't know bundler](http://railsisrael2013.events.co.il/presentations/1039-you-dont-know-bundler)
 
 ### Krzysztof Knapik
-#### [mongodb + mail queue + rails ? Yes!](http://railsisrael2013.events.co.il/presentations/869-mongodb--mail-queue--rails--yes)
-
-***
+[mongodb + mail queue + rails ? Yes!](http://railsisrael2013.events.co.il/presentations/869-mongodb--mail-queue--rails--yes)
 
 ### Assaf Feldman
-#### [Heroku to EC2 : Notes From The Road](http://railsisrael2013.events.co.il/presentations/987-heroku-to-ec2--notes-from-the-road)
-
-***
+[Heroku to EC2 : Notes From The Road](http://railsisrael2013.events.co.il/presentations/987-heroku-to-ec2--notes-from-the-road)
 
 ### Boris Dinkevich
-#### [Sharing the Environment with Vagrant]()
+[Sharing the Environment with Vagrant]()
 
-***
 
 ### Amr Tamimi
-#### [How do I Really Use Rails](http://railsisrael2013.events.co.il/presentations/1024-how-do-i-really-use-rails)
+[How do I Really Use Rails](http://railsisrael2013.events.co.il/presentations/1024-how-do-i-really-use-rails)
 
-***
 
 ### David Paluy
-#### [Tools to help you better understand other/your code](http://railsisrael2013.events.co.il/presentations/988-tools-to-help-you-better-understand-otheryour-code)
+[Tools to help you better understand other/your code](http://railsisrael2013.events.co.il/presentations/988-tools-to-help-you-better-understand-otheryour-code)
 
-***
 
 ### Erez Dickman
-#### [ok glass, now what?]()
+[ok glass, now what?]()
 
-***
 
 ### Nitzan Aviram
-#### [DRYing up Controllers and Views](http://railsisrael2013.events.co.il/presentations/1043-drying-up-controllers-and-views)
+[DRYing up Controllers and Views](http://railsisrael2013.events.co.il/presentations/1043-drying-up-controllers-and-views)
 
-***
 
 ### Susanne Dewein
-#### [After Rails Girls Summer of Code - What Now?](http://railsisrael2013.events.co.il/presentations/1041-after-rails-girls-summer-of-code-what-now)
+[After Rails Girls Summer of Code - What Now?](http://railsisrael2013.events.co.il/presentations/1041-after-rails-girls-summer-of-code-what-now)
 
-***
 
 ### João M. D. Moura
-#### [Rankings, You're Doing it Wrong](http://railsisrael2013.events.co.il/presentations/993-rankings-youre-doing-it-wrong)
+[Rankings, You're Doing it Wrong](http://railsisrael2013.events.co.il/presentations/993-rankings-youre-doing-it-wrong)
 
-***
 
 ### Daniel Halabi
-#### [A Web Developer's Branding Toolkit]()
+[A Web Developer's Branding Toolkit]()
 
 ***
 
