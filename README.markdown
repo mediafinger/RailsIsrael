@@ -158,7 +158,7 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 #### Susanne Dewein [@bibibienenstich](http://www.twitter.com/bibibienenstich)
 [After Rails Girls Summer of Code - What Now?](http://railsisrael2013.events.co.il/presentations/1041-after-rails-girls-summer-of-code-what-now)
 
-#### João M. D. Moura [@quicksystems](http://www.twitter.com/quicksystems)
+#### João M. D. Moura [@joaomdmoura](http://www.twitter.com/joaomdmoura)
 [Rankings, You're Doing it Wrong](http://railsisrael2013.events.co.il/presentations/993-rankings-youre-doing-it-wrong)
 
 #### Daniel Halabi [@halabidaniel](http://www.twitter.com/halabidaniel)
