@@ -16,7 +16,7 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 * 15:15 [Vitaly Kushner - Cache me if you can](https://github.com/mediafinger/RailsIsrael#vitaly-kushner-vkushner)
 * 15:50 [Benjamin Fleischer - YAML, what is it good for](https://github.com/mediafinger/RailsIsrael#benjamin-fleischer-hazula)
 * 16:45 [Panel with Chad Fowler](https://github.com/mediafinger/RailsIsrael#panel)
-* 17:15 [Lightning talks](https://github.com/mediafinger/RailsIsrael#lightning-talks)
+* 17:25 [Lightning talks](https://github.com/mediafinger/RailsIsrael#lightning-talks)
 
 <!--
 * 14:40 [XNAME - XTITLE](https://github.com/mediafinger/RailsIsrael#XNAME-XTWITTER)
@@ -131,37 +131,37 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 
 ## Lightning talks
 
-### Andre Arko [@indirect](http://www.twitter.com/indirect)
+#### Andre Arko [@indirect](http://www.twitter.com/indirect)
 [You don't know bundler](http://railsisrael2013.events.co.il/presentations/1039-you-dont-know-bundler)
 
-### Krzysztof Knapik [@knapo](http://www.twitter.com/knapo)
+#### Krzysztof Knapik [@knapo](http://www.twitter.com/knapo)
 [mongodb + mail queue + rails ? Yes!](http://railsisrael2013.events.co.il/presentations/869-mongodb--mail-queue--rails--yes)
 
-### Assaf Feldman [@assaf_fel](http://www.twitter.com/assaf_fel)
+#### Assaf Feldman [@assaf_fel](http://www.twitter.com/assaf_fel)
 [Heroku to EC2 : Notes From The Road](http://railsisrael2013.events.co.il/presentations/987-heroku-to-ec2--notes-from-the-road)
 
-### Boris Dinkevich [@BorisDinkevich](http://www.twitter.com/BorisDinkevich)
+#### Boris Dinkevich [@BorisDinkevich](http://www.twitter.com/BorisDinkevich)
 [Sharing the Environment with Vagrant]()
 
-### Amr Tamimi [@ammt](http://www.twitter.com/ammt)
+#### Amr Tamimi [@ammt](http://www.twitter.com/ammt)
 [How do I Really Use Rails](http://railsisrael2013.events.co.il/presentations/1024-how-do-i-really-use-rails)
 
-### David Paluy [@dpaluy](http://www.twitter.com/dpaluy)
+#### David Paluy [@dpaluy](http://www.twitter.com/dpaluy)
 [Tools to help you better understand other/your code](http://railsisrael2013.events.co.il/presentations/988-tools-to-help-you-better-understand-otheryour-code)
 
-### Erez Dickman [@erezdickman](http://www.twitter.com/erezdickman)
+#### Erez Dickman [@erezdickman](http://www.twitter.com/erezdickman)
 [ok glass, now what?]()
 
-### Nitzan Aviram [@nitzanadsmarket](http://www.twitter.com/nitzanadsmarket)
+#### Nitzan Aviram [@nitzanadsmarket](http://www.twitter.com/nitzanadsmarket)
 [DRYing up Controllers and Views](http://railsisrael2013.events.co.il/presentations/1043-drying-up-controllers-and-views)
 
-### Susanne Dewein [@bibibienenstich](http://www.twitter.com/bibibienenstich)
+#### Susanne Dewein [@bibibienenstich](http://www.twitter.com/bibibienenstich)
 [After Rails Girls Summer of Code - What Now?](http://railsisrael2013.events.co.il/presentations/1041-after-rails-girls-summer-of-code-what-now)
 
-### João M. D. Moura [@quicksystems](http://www.twitter.com/quicksystems)
+#### João M. D. Moura [@quicksystems](http://www.twitter.com/quicksystems)
 [Rankings, You're Doing it Wrong](http://railsisrael2013.events.co.il/presentations/993-rankings-youre-doing-it-wrong)
 
-### Daniel Halabi [@halabidaniel](http://www.twitter.com/halabidaniel)
+#### Daniel Halabi [@halabidaniel](http://www.twitter.com/halabidaniel)
 [A Web Developer's Branding Toolkit]()
 
 ***
