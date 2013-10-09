@@ -134,41 +134,34 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 ### Andre Arko [@indirect](http://www.twitter.com/indirect)
 [You don't know bundler](http://railsisrael2013.events.co.il/presentations/1039-you-dont-know-bundler)
 
-### Krzysztof Knapik
+### Krzysztof Knapik [@knapo](http://www.twitter.com/knapo)
 [mongodb + mail queue + rails ? Yes!](http://railsisrael2013.events.co.il/presentations/869-mongodb--mail-queue--rails--yes)
 
-### Assaf Feldman
+### Assaf Feldman [@assaf_fel](http://www.twitter.com/assaf_fel)
 [Heroku to EC2 : Notes From The Road](http://railsisrael2013.events.co.il/presentations/987-heroku-to-ec2--notes-from-the-road)
 
-### Boris Dinkevich
+### Boris Dinkevich [@BorisDinkevich](http://www.twitter.com/BorisDinkevich)
 [Sharing the Environment with Vagrant]()
 
-
-### Amr Tamimi
+### Amr Tamimi [@ammt](http://www.twitter.com/ammt)
 [How do I Really Use Rails](http://railsisrael2013.events.co.il/presentations/1024-how-do-i-really-use-rails)
 
-
-### David Paluy
+### David Paluy [@dpaluy](http://www.twitter.com/dpaluy)
 [Tools to help you better understand other/your code](http://railsisrael2013.events.co.il/presentations/988-tools-to-help-you-better-understand-otheryour-code)
 
-
-### Erez Dickman
+### Erez Dickman [@erezdickman](http://www.twitter.com/erezdickman)
 [ok glass, now what?]()
 
-
-### Nitzan Aviram
+### Nitzan Aviram [@nitzanadsmarket](http://www.twitter.com/nitzanadsmarket)
 [DRYing up Controllers and Views](http://railsisrael2013.events.co.il/presentations/1043-drying-up-controllers-and-views)
 
-
-### Susanne Dewein
+### Susanne Dewein [@bibibienenstich](http://www.twitter.com/bibibienenstich)
 [After Rails Girls Summer of Code - What Now?](http://railsisrael2013.events.co.il/presentations/1041-after-rails-girls-summer-of-code-what-now)
 
-
-### João M. D. Moura
+### João M. D. Moura [@quicksystems](http://www.twitter.com/quicksystems)
 [Rankings, You're Doing it Wrong](http://railsisrael2013.events.co.il/presentations/993-rankings-youre-doing-it-wrong)
 
-
-### Daniel Halabi
+### Daniel Halabi [@halabidaniel](http://www.twitter.com/halabidaniel)
 [A Web Developer's Branding Toolkit]()
 
 ***
@@ -180,4 +173,4 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 ***
 -->
 
-Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) invited me to take part in the speaker's events - apart from being able to meet some great people that are fun to talk to (and that do a lot of stuff for open source and therefore make life better for all of us), the best part was the surfing session at the beautiful beach of Tel Aviv. A web development conference with actual surfing. Wow :)
+Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) invited me to take part in the speaker's events (thanks a lot!) - apart from being able to meet some great people that are fun to talk to (and that do a lot of stuff for open source and therefore make life better for all of us), the best part was the surfing session at the beautiful beach of Tel Aviv. A web development conference with actual surfing. Wow :)
