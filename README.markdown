@@ -13,8 +13,10 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 * 13:00 [Andre Arko - Deathmatch: Bundler vs. Rubygems.org](https://github.com/mediafinger/RailsIsrael#andre-arko-indirect)
 * 13:30 [Yonatan Bergman - CREATE • LEARN • DEVELOP](https://github.com/mediafinger/RailsIsrael#yonatan-bergman-yonbergman)
 * 14:40 [Emily Stolfo - CREATE • LEARN • DEVELOP](https://github.com/mediafinger/RailsIsrael#emily-stolfo-emstolfo)
-* 15:10 [Vitaly Kushner - Cache me if you can](https://github.com/mediafinger/RailsIsrael#vitaly-kushner-vkushner)
-* 15:40 [Benjamin Fleischer - YAML, what is it good for](https://github.com/mediafinger/RailsIsrael#benjamin-fleischer-hazula)
+* 15:15 [Vitaly Kushner - Cache me if you can](https://github.com/mediafinger/RailsIsrael#vitaly-kushner-vkushner)
+* 15:50 [Benjamin Fleischer - YAML, what is it good for](https://github.com/mediafinger/RailsIsrael#benjamin-fleischer-hazula)
+* 16:45 [Panel with Chad Fowler](https://github.com/mediafinger/RailsIsrael#panel)
+* 17:15 [Lightning talks](https://github.com/mediafinger/RailsIsrael#lightning-talks)
 
 <!--
 * 14:40 [XNAME - XTITLE](https://github.com/mediafinger/RailsIsrael#XNAME-XTWITTER)
@@ -116,8 +118,73 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 ### Benjamin Fleischer [@hazula](http://www.twitter.com/hazula)
 #### [YAML, what is it good for?](http://railsisrael2013.events.co.il/presentations/868-yaml-what-is-it-good-for)
 
+* comparison between JSON and YAML (JSON is included in YAML)
+* YAML feature set
+* YAML issues, in particular slow development of YAML 2.0
+
 ***
 
+## Panel
+with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
+
+***
+
+## Lightning talks
+
+### Andre Arko [@indirect](http://www.twitter.com/indirect)
+#### [You don't know bundler](http://railsisrael2013.events.co.il/presentations/1039-you-dont-know-bundler)
+
+***
+
+### Krzysztof Knapik
+#### [mongodb + mail queue + rails ? Yes!](http://railsisrael2013.events.co.il/presentations/869-mongodb--mail-queue--rails--yes)
+
+***
+
+### Assaf Feldman
+#### [Heroku to EC2 : Notes From The Road](http://railsisrael2013.events.co.il/presentations/987-heroku-to-ec2--notes-from-the-road)
+
+***
+
+### Boris Dinkevich
+#### [Sharing the Environment with Vagrant]()
+
+***
+
+### Amr Tamimi
+#### [How do I Really Use Rails](http://railsisrael2013.events.co.il/presentations/1024-how-do-i-really-use-rails)
+
+***
+
+### David Paluy
+#### [Tools to help you better understand other/your code](http://railsisrael2013.events.co.il/presentations/988-tools-to-help-you-better-understand-otheryour-code)
+
+***
+
+### Erez Dickman
+#### [ok glass, now what?]()
+
+***
+
+### Nitzan Aviram
+#### [DRYing up Controllers and Views](http://railsisrael2013.events.co.il/presentations/1043-drying-up-controllers-and-views)
+
+***
+
+### Susanne Dewein
+#### [After Rails Girls Summer of Code - What Now?](http://railsisrael2013.events.co.il/presentations/1041-after-rails-girls-summer-of-code-what-now)
+
+***
+
+### João M. D. Moura
+#### [Rankings, You're Doing it Wrong](http://railsisrael2013.events.co.il/presentations/993-rankings-youre-doing-it-wrong)
+
+***
+
+### Daniel Halabi
+#### [A Web Developer's Branding Toolkit]()
+
+***
 
 <!--
 ### XNAME [@XTWITTER](http://www.twitter.com/XTWITTER)
@@ -126,4 +193,4 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 ***
 -->
 
-Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) invited me to take part in the speakers events - apart from being able to meet some great people that are fun to talk to (and that do a lot of stuff for open source and therefore make life better for all of us), the best part was the surfing session at the beautiful beach of Tel Aviv. A web development conference with actual surfing. Wow :)
+Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) invited me to take part in the speaker's events - apart from being able to meet some great people that are fun to talk to (and that do a lot of stuff for open source and therefore make life better for all of us), the best part was the surfing session at the beautiful beach of Tel Aviv. A web development conference with actual surfing. Wow :)
