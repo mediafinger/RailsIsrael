@@ -238,31 +238,50 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 
 * pros and cons of different ways of monitoring your app and your servers
 * logs and log collection
+* self reporting system for business and system exception
 
 ***
 
 ### David Bonilla [@david_bonilla](http://www.twitter.com/david_bonilla)
 #### [How To Do Kick-Ass Software Development](http://devcon-oct13.events.co.il/presentations/1013-how-to-do-kick-ass-software-development)
 
+* how Atlassian works together
+
 ***
 
 ### Alex Koppel [@arsduo](http://www.twitter.com/arsduo)
 #### [Designing for a Hostile Environment](http://devcon-oct13.events.co.il/presentations/1035-designing-for-a-hostile-environment)
+
+* log everything and store it in a way that allows to extract information flexible and quickly (e.g. Graylog2)
+* think about your update mechanism - and (non)-technical restrictions
+* keep bad/no connectivity in mind
+* develop for your audience - this may result in decisions towards smaller scale and specialized requirements
 
 ***
 
 ### João M. D. Moura [@joaomdmoura](http://www.twitter.com/joaomdmoura)
 #### [Rankings, You're Doing it Wrong](http://devcon-oct13.events.co.il/presentations/1009-rankings-youre-doing-it-wrong)
 
+* rankings are gamification
+* ranking is ordering and distinguishing
+* different ratings: elo, true skill (combination of skill and distrust)
+* sigma gem
+
 ***
 
 ### Victor Trakhtenberg [@victortr75](http://www.twitter.com/victortr75)
 #### [Swagger - make your REST APIs accessible](http://devcon-oct13.events.co.il/presentations/1010-swagger-make-your-rest-apis-accessible)
 
+* a framework to produce, consume and visualize RESTful APIs
+* and a methodology for documentation
+* the spec is based on JSON
+
 ***
 
 ### Ori Hoch [@astupidog](http://www.twitter.com/astupidog)
 #### [Optimizing Client-Side Performance in highly dynamic content websites](http://devcon-oct13.events.co.il/presentations/1030-optimizing-client-side-performance-in-highly-dynamic-content-websites)
+
+* various issues of content display at the example of their specific CMS
 
 ***
 
