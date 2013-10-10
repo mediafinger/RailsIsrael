@@ -201,14 +201,73 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 ***
 
 ### Alon Eizenman [@aloneiz](http://www.twitter.com/aloneiz)
-#### [Continuous Application Delivery and Release Automation]http://devcon-oct13.events.co.il/presentations/1021-continuous-application-delivery-and-release-automation)
+#### [Continuous Application Delivery and Release Automation](http://devcon-oct13.events.co.il/presentations/1021-continuous-application-delivery-and-release-automation)
 
-
+* release and publish often
 
 ***
 
-### Ofer Ron [@XTWITTER](http://www.twitter.com/XTWITTER)
+### Ofer Ron [@oferron](http://www.twitter.com/oferron)
 #### [Introduction to data science](http://devcon-oct13.events.co.il/presentations/1014-introduction-to-data-science)
+
+* how to recommend something to your site's users - or how data scientists work
+* examine the data (you might need to transform it into a usable form)
+* perform basic analysis
+* formulate a hypothesis
+* validate your hypothesis
+* productize
+
+***
+
+### Andre Arko [@indirect](http://www.twitter.com/indirect)
+#### [The Iceberg of Webdev: Choices You Didn't Realize You Were Making](http://devcon-oct13.events.co.il/presentations/1037-the-iceberg-of-webdev-choices-you-didnt-realize-you-were-making)
+
+* production is fundamentally systemically different from development
+* measure, but choose the right metrics (e.g. don't rely on averages, at least add median and 95% percentile)
+* add alerts to get notified when something changes
+* if your routing or load balancing has issues - will you notice that (it's not in your app logs)
+* request time is just a fraction of the end-to-end response time
+* use a server in a differnt data-center to make requests to your app - measure them - alert on them
+* is your data storage system perfectly configured - even for edge cases?
+* trust no one - and check if the documentation is right
+
+***
+
+### Aviran Mordo [@aviranm](http://www.twitter.com/aviranm)
+#### [Red Alert Or False Alarm - Lessons Learned Monitoring Production](http://devcon-oct13.events.co.il/presentations/1016-red-alert-or-false-alarm-lessons-learned-monitoring-production)
+
+* pros and cons of different ways of monitoring your app and your servers
+* logs and log collection
+
+***
+
+### David Bonilla [@david_bonilla](http://www.twitter.com/david_bonilla)
+#### [How To Do Kick-Ass Software Development](http://devcon-oct13.events.co.il/presentations/1013-how-to-do-kick-ass-software-development)
+
+***
+
+### Alex Koppel [@arsduo](http://www.twitter.com/arsduo)
+#### [Designing for a Hostile Environment](http://devcon-oct13.events.co.il/presentations/1035-designing-for-a-hostile-environment)
+
+***
+
+### João M. D. Moura [@joaomdmoura](http://www.twitter.com/joaomdmoura)
+#### [Rankings, You're Doing it Wrong](http://devcon-oct13.events.co.il/presentations/1009-rankings-youre-doing-it-wrong)
+
+***
+
+### Victor Trakhtenberg [@victortr75](http://www.twitter.com/victortr75)
+#### [Swagger - make your REST APIs accessible](http://devcon-oct13.events.co.il/presentations/1010-swagger-make-your-rest-apis-accessible)
+
+***
+
+### Ori Hoch [@astupidog](http://www.twitter.com/astupidog)
+#### [Optimizing Client-Side Performance in highly dynamic content websites](http://devcon-oct13.events.co.il/presentations/1030-optimizing-client-side-performance-in-highly-dynamic-content-websites)
+
+***
+
+### Yehuda Katz [@wycats](http://www.twitter.com/wycats)
+#### [Ember talk]()
 
 ***
 
