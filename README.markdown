@@ -2,6 +2,8 @@
 
 Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http://www.twitter.com/@mediafinger)
 
+Below you will find links to the talks of [DevConTLV](https://github.com/mediafinger/RailsIsrael#devcontlv-october-2013) which happened on Thursday after RailsIsrael 2013
+
 ## The talks I listened to
 *  9:10 [Chad Fowler - Disposable Components](https://github.com/mediafinger/RailsIsrael#chad-fowler-chadfowler)
 *  9:40 [Yehuda Katz - Off the Menu: Building a Client-Side With Ember and Rails](https://github.com/mediafinger/RailsIsrael#yehuda-katz-wycats)
@@ -20,7 +22,13 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 
 <!--
 * 14:40 [XNAME - XTITLE](https://github.com/mediafinger/RailsIsrael#XNAME-XTWITTER)
+
  -->
+
+***
+
+Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) invited me to take part in the speaker's events (thanks a lot!) - apart from being able to meet some great people that are fun to talk to (and that do a lot of stuff for open source and therefore make life better for all of us), the best part was the surfing session at the beautiful beach of Tel Aviv. A web development conference with actual surfing. Wow :)
+
 ***
 
 ### Chad Fowler [@chadfowler](http://www.twitter.com/chadfowler)
@@ -166,11 +174,47 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 
 ***
 
+***
+
+## DevConTLV October 2013
+
+### Konstantin Haase [@konstantinhaase](http://www.twitter.com/konstantinhaase)
+#### [Death to Cookies](http://devcon-oct13.events.co.il/presentations/1007-death-to-cookies)
+
+* about cookie (in)security and possible attacks
+* about the self-written authentication system TravisCI uses (based on JavaScript)
+
+***
+
+### Vicent Marti [@vmg](http://www.twitter.com/vmg)
+#### [My Mom Told Me That git Doesn't Scale](http://devcon-oct13.events.co.il/presentations/1042-my-mom-told-me-that-git-doesnt-scale)
+
+* how to scale git to web-scale
+* be a UNIX shop
+* don't use Java
+* start with Erlang, but remove it from the stack over time
+* end up with a Ruby and C stack with 100.000 lines less than before
+* don't use the language / technology of the week
+* and don't mongo (as is not even a verb)
+* just do the simplest thing as possible with the tools you really understand
+
+***
+
+### Alon Eizenman [@aloneiz](http://www.twitter.com/aloneiz)
+#### [Continuous Application Delivery and Release Automation]http://devcon-oct13.events.co.il/presentations/1021-continuous-application-delivery-and-release-automation)
+
+
+
+***
+
+### Ofer Ron [@XTWITTER](http://www.twitter.com/XTWITTER)
+#### [Introduction to data science](http://devcon-oct13.events.co.il/presentations/1014-introduction-to-data-science)
+
+***
+
 <!--
 ### XNAME [@XTWITTER](http://www.twitter.com/XTWITTER)
 #### [XTITLE](http://railsisrael2013.events.co.il/presentations/870-api-design-for-gem-authors-and-users)
 
 ***
 -->
-
-Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) invited me to take part in the speaker's events (thanks a lot!) - apart from being able to meet some great people that are fun to talk to (and that do a lot of stuff for open source and therefore make life better for all of us), the best part was the surfing session at the beautiful beach of Tel Aviv. A web development conference with actual surfing. Wow :)
