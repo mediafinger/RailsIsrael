@@ -4,7 +4,7 @@ Conference notes by [Andreas Finger](http://mediafinger.com) [@mediafinger](http
 
 Below you will find links to the talks of [DevConTLV](https://github.com/mediafinger/RailsIsrael#devcontlv-october-2013) which happened on Thursday after RailsIsrael 2013
 
-## The talks I listened to
+## The talks I listened toc
 *  9:10 [Chad Fowler - Disposable Components](https://github.com/mediafinger/RailsIsrael#chad-fowler-chadfowler)
 *  9:40 [Yehuda Katz - Off the Menu: Building a Client-Side With Ember and Rails](https://github.com/mediafinger/RailsIsrael#yehuda-katz-wycats)
 *  9:55 [Xavier Noria - Numerical Ruby](https://github.com/mediafinger/RailsIsrael#xavier-noria-fxn)
@@ -168,6 +168,7 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 
 #### João M. D. Moura [@joaomdmoura](http://www.twitter.com/joaomdmoura)
 [Rankings, You're Doing it Wrong](http://railsisrael2013.events.co.il/presentations/993-rankings-youre-doing-it-wrong)
+[Slides: ] (https://speakerdeck.com/joaomdmoura/rankings-youre-doing-it-wrong)
 
 #### Daniel Halabi [@halabidaniel](http://www.twitter.com/halabidaniel)
 [A Web Developer's Branding Toolkit]()
