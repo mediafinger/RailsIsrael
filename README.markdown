@@ -262,6 +262,8 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 
 ### João M. D. Moura [@joaomdmoura](http://www.twitter.com/joaomdmoura)
 #### [Rankings, You're Doing it Wrong](http://devcon-oct13.events.co.il/presentations/1009-rankings-youre-doing-it-wrong)
+##### [Slides: ](https://speakerdeck.com/joaomdmoura/rankings-youre-doing-it-wrong)
+
 
 * rankings are gamification
 * ranking is ordering and distinguishing
