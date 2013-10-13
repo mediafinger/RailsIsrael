@@ -134,6 +134,22 @@ Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) inv
 
 ***
 
+### Hector Bustillos [@hecbuma](https://twitter.com/hecbuma)
+#### [Cutting off the Browser Fat from your App](http://railsisrael2013.events.co.il/presentations/985-cutting-off-the-browser-fat-from-your-app)
+
+* 
+
+[Slides at Speaker Deck](https://speakerdeck.com/hecbuma/cutting-off-the-browser-fat-from-your-app)
+
+***
+
+### Reuven M. Lerner [@reuvenmlerner](https://twitter.com/reuvenmlerner)
+#### [Integrating PostgreSQL](http://railsisrael2013.events.co.il/presentations/866-integrating-postgresql)
+
+* 
+
+[Slides at Slide Share](http://www.slideshare.net/reuvenlerner/rails-israel-2013)
+
 ## Panel
 with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 
