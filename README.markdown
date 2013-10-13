@@ -99,6 +99,8 @@ Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) inv
 
 * passion projects
 
+[Slides at Speaker Deck](https://speakerdeck.com/yonbergman/create-learn-develop)
+
 ***
 
 ### Emily Stolfo [@emstolfo](http://www.twitter.com/emstolfo)
