@@ -143,6 +143,13 @@ Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) inv
 
 ***
 
+### Reuven M. Lerner [@reuvenmlerner](https://twitter.com/reuvenmlerner)
+#### [Integrating PostgreSQL](http://railsisrael2013.events.co.il/presentations/866-integrating-postgresql)
+
+* 
+
+[Slides at Slide Share](http://www.slideshare.net/reuvenlerner/rails-israel-2013)
+
 ## Panel
 with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 
