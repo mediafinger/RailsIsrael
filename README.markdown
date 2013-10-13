@@ -267,6 +267,9 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 * different ratings: elo, true skill (combination of skill and distrust)
 * sigma gem
 
+[Slides at Speaker Deck](https://speakerdeck.com/joaomdmoura/rankings-youre-doing-it-wrong) 
+
+
 ***
 
 ### Victor Trakhtenberg [@victortr75](http://www.twitter.com/victortr75)
