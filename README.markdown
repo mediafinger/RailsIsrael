@@ -99,6 +99,8 @@ Before Rails Israel Raphael [@fogelmania](http://www.twitter.com/fogelmania) inv
 
 * passion projects
 
+[Slides at Speaker Deck](https://speakerdeck.com/yonbergman/create-learn-develop)
+
 ***
 
 ### Emily Stolfo [@emstolfo](http://www.twitter.com/emstolfo)
@@ -266,6 +268,9 @@ with Erez Dickman, Uri Nativ, Dotan Nahum, Hadar Cohen and Chad Fowler
 * ranking is ordering and distinguishing
 * different ratings: elo, true skill (combination of skill and distrust)
 * sigma gem
+
+[Slides at Speaker Deck](https://speakerdeck.com/joaomdmoura/rankings-youre-doing-it-wrong) 
+
 
 ***
 
